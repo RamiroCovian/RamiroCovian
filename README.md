@@ -10,6 +10,7 @@
 ## Sobre Mí 🌟
 
 Mi nombre es Ramiro Covian, un apasionado desarrollador backend con una gran afición por la tecnología y la programación. Me especializo en crear soluciones eficientes y robustas utilizando diversas herramientas y lenguajes de programación. Aquí hay algunos puntos sobre mí:
+- 📍 **Ubicación**: Buenos Aires, Argentina 🇦🇷
 - 📚 **Educación**: Graduado en KeepCoding Bootcamp | Aprende a Programar desde Cero (Full Stack Jr. ) | Edición XVII
 - 💼 **Experiencia**: He trabajado en varios proyectos que van desde aplicaciones web hasta soluciones de bases de datos complejas.
 - 🚀 **Emprendimiento**: Co-fundador de [Coti Solutions](https://instagram.com/cotisolutions) junto con mi hermano, donde ofrecemos los siguientes servicios:
